@@ -1,4 +1,4 @@
-# TDD Kit - C#
+# TDD Kit - C\#
 
 ## Libraries documentation
 
